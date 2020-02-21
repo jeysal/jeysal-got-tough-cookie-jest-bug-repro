@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node .",
+    "start": "node run.js",
     "test": "jest"
   },
   "dependencies": {
