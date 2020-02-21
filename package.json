@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^10.6.0",
+    "jest": "^25.1.0",
+    "tough-cookie": "^3.0.1"
+  }
+}
